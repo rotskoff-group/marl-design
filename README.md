@@ -34,3 +34,6 @@ python test.py --active --num_samples 10  --centralize_states --centralize_appro
 python test.py --active --num_samples 10 --centralize_rewards --centralize_approach grid_1
 python test.py --centralize_rewards --num_samples 10 --centralize_states --centralize_approach grid_2
 ```
+
+For a more theoretical description of the systems described here, please visit
+https://github.com/rotskoff-group/dissipative-design
