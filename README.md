@@ -1,7 +1,7 @@
 # Cooperative multi-agent reinforcement learning for high-dimensional nonequilibrium control
 
 
-Official implementation:  
+Official implementation of:  
 
 **Cooperative multi-agent reinforcement learning for high-dimensional nonequilibrium control**
 
