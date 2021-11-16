@@ -4,6 +4,8 @@
 Official implementation:  
 
 **Cooperative multi-agent reinforcement learning for high-dimensional nonequilibrium control**
+
+
 Shriram Chennakesavalu and Grant M. Rotskoff
 https://arxiv.org/abs/2111.06875
 
